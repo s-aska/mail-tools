@@ -1,4 +1,4 @@
-#!/usr/local/iMS/perl/bin/perl
+#!/usr/bin/env perl
 
 use strict;
 use Getopt::Long;
@@ -104,6 +104,7 @@ FormatString:
     ./sendx.pl -h 10.0.0.10 -f test-%04d@example.jp -t test-%04d@example.jp -s test-%04d
 
 EOF
+exit(0);
 }
 
 if (-f $data) {
