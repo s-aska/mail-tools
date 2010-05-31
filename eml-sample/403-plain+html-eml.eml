@@ -1,0 +1,74 @@
+Return-Path: <s-aska@iij-tech.co.jp>
+Message-ID: <48FAA2DE.8050302@iij-tech.co.jp>
+Date: Sun, 19 Oct 2008 12:00:46 +0900
+From: aska02 <s-aska@iij-tech.co.jp>
+User-Agent: Thunderbird 2.0.0.14 (Windows/20080421)
+MIME-Version: 1.0
+To: s-aska@iij-tech.co.jp
+Subject: 403-plain+html-eml
+Content-Type: multipart/mixed;
+ boundary="------------070700040700060902060406"
+
+This is a multi-part message in MIME format.
+--------------070700040700060902060406
+Content-Type: multipart/alternative;
+ boundary="------------010603030405020206080102"
+
+
+--------------010603030405020206080102
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+*転送HTMLメール（TEXTあり）
+太字・紺色
+*
+
+--------------010603030405020206080102
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<b><small><font color="#000099"><big><big>転送HTMLメール（TEXTあり）<br>
+太字・紺色<br>
+</big></big></font></small></b>
+<br>
+</body>
+</html>
+
+--------------010603030405020206080102--
+
+--------------070700040700060902060406
+Content-Type: message/rfc822;
+ name="foobar.eml"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="foobar.eml"
+
+X-Mozilla-Keys:                                                                                 
+Message-ID: <48F6D020.6070405@iij-tech.co.jp>
+Date: Thu, 16 Oct 2008 14:24:48 +0900
+From: aska02 <s-aska@iij-tech.co.jp>
+User-Agent: Thunderbird 2.0.0.14 (Windows/20080421)
+MIME-Version: 1.0
+To: s-aska@iij-tech.co.jp
+Subject: foobar
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<big><big><big><big><big><big><big><big>some</big></big></big></big></big></big></big></big>
+</body>
+</html>
+
+
+
+--------------070700040700060902060406--
+

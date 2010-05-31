@@ -1,0 +1,38 @@
+Return-Path: <s-aska@iij-tech.co.jp>
+Message-ID: <48FAA2B7.9040608@iij-tech.co.jp>
+Date: Sun, 19 Oct 2008 12:00:07 +0900
+From: aska02 <s-aska@iij-tech.co.jp>
+User-Agent: Thunderbird 2.0.0.14 (Windows/20080421)
+MIME-Version: 1.0
+To: s-aska@iij-tech.co.jp
+Subject: 401-plain+html
+Content-Type: multipart/alternative;
+ boundary="------------090307050508050800030804"
+
+This is a multi-part message in MIME format.
+--------------090307050508050800030804
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+*HTMLメール（TEXTあり）
+太字・紺色
+*
+
+--------------090307050508050800030804
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<font color="#000099"><b><big>HTMLメール（TEXTあり）<br>
+太字・紺色<br>
+</big></b></font>
+<br>
+</body>
+</html>
+
+--------------090307050508050800030804--
+

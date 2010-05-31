@@ -1,0 +1,35 @@
+Message-ID: <49EEBD13.20100@example.jp>
+Date: Wed, 22 Apr 2009 15:45:39 +0900
+From: iij-test001 <iij-test001@example.jp>
+User-Agent: Thunderbird 2.0.0.21 (Windows/20090302)
+MIME-Version: 1.0
+To: iij-test001@example.jp
+Subject: =?ISO-2022-JP?B?GyRCNSE8bzBNQjhKODt6JUYlOSVILSEbKEI=?=
+Content-Type: multipart/mixed;
+ boundary="------------090501000506010700040108"
+
+This is a multi-part message in MIME format.
+--------------090501000506010700040108
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+$B5!<o0MB8J8;z%F%9%H-!(B
+
+--------------090501000506010700040108
+Content-Type: text/plain;
+ name="=?ISO-2022-JP?B?GyRCLSEkIiQiJCIbKEIudHh0?="
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+ filename="=?CP50220?B?GyRCLSEkIiQiJCIbKEIudHh0?="
+
+i0CO7YjLkbaVto6aguCRzomegrWCxIKigtyCt4FC
+--------------090501000506010700040108
+Content-Type: text/plain;
+ name="=?ISO-2022-JP?B?GyRCLSIkIiQiJCIbKEIudHh0?="
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+ filename="=?CP50220?B?GyRCLSIkIiQiJCIbKEIudHh0?="
+
+i0CO7YjLkbaVto6aguCRzomegrWCxIKigtyCt4FBgquCwYLGgUI=
+--------------090501000506010700040108--
+
