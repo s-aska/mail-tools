@@ -25,6 +25,7 @@ my $ssl;
 my $num = 1;
 my $max;
 my %ext;
+my %header;
 
 GetOptions(
   "debug+"      => \$debug,
@@ -43,7 +44,8 @@ GetOptions(
   "data=s"      => \$data,
   "num=i"       => \$num,
   "max=i"       => \$max,
-  "ext=s"       => \%ext
+  "ext=s"       => \%ext,
+  "header=s"    => \%header
 );
 
 if ($help) {
@@ -119,6 +121,10 @@ my $top = MIME::Entity->build(From    => $from,
                               Subject => $subject,
                               Data    => [$data || $subject],
                               %ext);
+
+for my $key ( keys %header ) {
+  $top->head->set($key, $header{ $key });
+}
 
 $top->attach(Path => $_, Encoding => "base64", Type => "application/octet-stream") for @attach;
 
